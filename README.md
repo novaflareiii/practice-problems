@@ -1,2 +1,2 @@
 # daily-python-practice
-notes and solutions for python practice problems
+notes and solutions for python and other languages practice problems
